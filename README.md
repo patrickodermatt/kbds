@@ -1,2 +1,2 @@
-# kbds
+# KBDS NLTK
 Modul KBDS @HSLU
